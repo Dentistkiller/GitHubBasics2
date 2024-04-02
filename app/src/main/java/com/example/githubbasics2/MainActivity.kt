@@ -20,9 +20,6 @@ class MainActivity : AppCompatActivity() {
         button = findViewById(R.id.button)
         tv = findViewById(R.id.textView)
 
-        button.setOnClickListener {
 
-
-        }
     }
 }
